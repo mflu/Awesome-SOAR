@@ -874,3 +874,5 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
     - Not Available
   - **[ONLINE CHAT GROUPS]**
     - Not Available
+- [W5 SOAR](https://github.com/w5teams/w5)
+- [ZEN SOAR](https://github.com/zbnio/zbn)
